@@ -1,0 +1,23 @@
+{
+	"selectorVerifyLoginPage":"#user-field",
+	"selectorVerifyPostLoginPage":".search-input",
+	"steps": [
+		{
+			"order": 1,
+			"action":"click",
+			"selector": "#user-field",
+			"typeOnField": "login"
+		},
+		{
+			"order": 2,
+			"action":"click",
+			"selector": "#password-field",
+			"typeOnField": "password"
+		},
+		{
+			"order": 3,
+			"action":"click",
+			"selector": "[type='submit']"
+		}		
+	]	
+}

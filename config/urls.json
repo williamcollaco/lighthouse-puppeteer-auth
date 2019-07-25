@@ -1,0 +1,22 @@
+[
+	{
+		"url":"http://localhost:8080",
+		"auth": false
+	},
+	{
+		"url":"http://localhost:8080/login",
+		"auth": false
+	},
+	{
+		"url":"http://localhost:8080/home",
+		"auth": true
+	},
+	{
+		"url":"http://localhost:8080/search",
+		"auth": true
+	},
+	{
+		"url":"http://localhost:8080/products",
+		"auth": true
+	}
+]

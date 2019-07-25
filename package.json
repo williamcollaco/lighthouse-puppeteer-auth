@@ -1,0 +1,25 @@
+{
+  "name": "lighthouse-puppeteer-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lighthouse-puppeteer-auth.js",
+  "bin": "lighthouse-puppeteer-auth.js",
+  "scripts": {
+    "test": "lighthouse-puppeteer-auth"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcollaco/lighthouse-puppeteer-auth.git"
+  },
+  "author": "williamcollaco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamcollaco/lighthouse-puppeteer-auth/issues"
+  },
+  "homepage": "https://github.com/williamcollaco/lighthouse-puppeteer-auth#readme",
+  "dependencies": {
+    "minimist": "latest",
+    "puppeteer": "latest",
+    "lighthouse": "latest"
+  }
+}
